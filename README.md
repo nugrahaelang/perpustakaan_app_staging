@@ -1,6 +1,6 @@
 # Perpustakaan App Staging
 
-Perpustakaan App Prod adalah sebuah aplikasi manajemen perpustakaan yang dikembangkan menggunakan Java. Aplikasi ini menggunakan database MYSQL
+Perpustakaan App Staging adalah sebuah aplikasi manajemen perpustakaan yang dikembangkan menggunakan Java. Aplikasi ini menggunakan database MYSQL
 
 ## Deskripsi
 
